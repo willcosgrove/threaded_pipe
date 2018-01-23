@@ -1,3 +1,3 @@
-module ThreadedPipe
-  VERSION = "0.0.1"
+class ThreadedPipe
+  VERSION = "0.0.2"
 end
